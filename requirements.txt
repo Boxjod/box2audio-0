@@ -1,0 +1,6 @@
+f5-tts>=0.3.0,<1.2.0
+torch>=2.0.0
+torchaudio>=2.0.0
+gradio>=4.0.0
+soundfile>=0.12.0
+numpy>=1.24.0

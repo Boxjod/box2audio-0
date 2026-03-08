@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+venv/
+.venv/
+uploads/*
+!uploads/.gitkeep
+outputs/*
+!outputs/.gitkeep
+# *.wav
+*.mp3
+*.flac
+*.ogg
+*.m4a
+.env
+*.log
+.DS_Store
+node_modules/
+dist/
