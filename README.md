@@ -189,6 +189,10 @@ A: PyTorch + CUDA 包体积较大（约 2-3GB）。建议使用国内 pip 镜像
 pip install -r requirements.txt -i https://mirrors.aliyun.com/pypi/simple/
 ```
 
+## 免责声明
+
+本项目仅供学习和研究用途，请勿用于侵权、反动、色情、暴力等违法违规内容的生成。部署者和实际生成内容的使用者须对其行为及产出内容承担全部法律责任，与项目作者无关。
+
 ## 致谢
 
 - [F5-TTS](https://github.com/SWivid/F5-TTS) — 底层语音合成模型
