@@ -4,6 +4,14 @@
 
 输入文字 → 选择角色 → 一键生成 AI 语音。
 
+**在线体验（无需安装）**：[https://audio.box2ai.com](https://audio.box2ai.com/#/)
+
+## 支持我们
+
+如果这个项目对你有帮助，请给我们点一个 Star ⭐，这是对我们最大的鼓励！
+
+[![Star this repo](https://img.shields.io/github/stars/Boxjod/box2audio-0?style=social)](https://github.com/Boxjod/box2audio-0)
+
 ## 系统要求
 
 - **Python**: 3.10+（推荐 3.12）
